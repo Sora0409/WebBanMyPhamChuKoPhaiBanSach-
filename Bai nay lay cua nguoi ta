@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title> linh kien dien tu apple </title>
+</head>
+<body>
+
+    <div>
+    <form action="" enctype="multipart/form-data" method="" name="" id="">
+        nhap ho va ten <input type="text"><br/><br/>
+        nhap sdt <input type="number"><br/><br/>
+        checkbox <input type="checkbox"><br/><br/>
+        radio <input type="radio"><br/><br/>
+         nhap ngay thang nam <input type="date"><br/><br/>
+         thoi gian <input type="time"><br/><br/>
+        chon day <input type="range"><br/><br/>
+         tinh thanh <select name="" id="">
+             <option value="1"> binh thuan </option>
+             <option value="2">hcm</option>
+             <option value="3">hn</option>
+             <option value="1"> nghe an </option>
+             <option value="2">da nang</option>
+             <option value="3">campuchia</option>
+         </select>
+        <p> binh chon <textarea name="" id="" ></textarea></p> <button> submit </button>
+     </form>
+    </div>
+   
+    <H3> TRANG CHU </H3>
+    <div>
+  <img src="./linhkienip.vn-4-300x300.png" alt=" anh logo" >
+  <img src="./Smartphone-Flash-Sale-Banner-Template-384-×-215-px-5.png"alt="anh smarphone ">
+  <img src="./fff.png"alt=" anh">
+  <img src="./165-2-300x300.png"alt=" anh">
+  <img src="./2-4-1400x229.png"alt=" anh">
+  <img src="./1-4-1400x229.png"alt=" anh">
+    </div>
+<h1> man hinh inphone oled gx </h1>
+<div>
+    <img src="./ssss-600x800.png"alt=" anh">
+    <img src="./163-2-300x300.png"alt=" anh">
+    <img src="./164-1-300x300.png"alt=" anh">
+    <img src="./164-2-300x300.png"alt=" anh">
+    <img src="./168-1-300x300.png"alt=" anh">
+    <img src="./166-2-300x300.png"alt=" anh">
+    <img src="./12-promax-300x300.png"alt=" anh">
+    <img src="./linhkienip.vn-4-300x300.png"alt=" anh">
+    <img src="./169-1-300x300.png"alt=" anh">
+</div>
+<h2> man hinh iphone lcd zy</h2>
+
+
+    
+</body>
+</html>
